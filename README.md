@@ -70,7 +70,7 @@ Tripit is a Travel Itinerary application built using React and Spring Boot. It a
 ## Project Video
 Watch the demonstration video of the Tripit application here:
 
-[![Tripit Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Tripit Demo Video](https://github.com/Gaurav-guru/trip-it/releases/download/video/Screen.Recording.2024-07-25.145614.online-video-cutter.com.mp4)
 
 Replace `YOUR_VIDEO_ID` with the actual ID from the YouTube video link.
 
